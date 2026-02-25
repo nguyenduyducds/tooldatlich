@@ -1,0 +1,10 @@
+gologin
+seleniumbase
+customtkinter 
+pillow
+tkinterdnd2
+selenium-stealth
+numpy
+requests
+pyperclip
+
