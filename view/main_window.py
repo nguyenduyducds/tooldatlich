@@ -8,7 +8,7 @@ class MainWindow(ctk.CTk):
         super().__init__()
         self.project = project
         
-        self.title("FB Scheduler Pro")
+        self.title("DuyDuc Manager Tool Đặt Lịch Facebook")
         self.geometry("1400x900")
         
         # Modern color scheme
