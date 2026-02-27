@@ -5,7 +5,15 @@
       "created_at": "2026-02-25",
       "expires_at": "2026-03-27",
       "status": "active",
-      "note": "No note"
+      "note": "No note",
+      "activations": [
+        {
+          "machine_id": "0a709005b56e3383",
+          "hostname": "DESKTOP-SAKQ7L8",
+          "activated_at": "2026-02-27 16:04",
+          "os": "Windows 10"
+        }
+      ]
     },
     {
       "key": "H2I4-BFR1-CGZW-1O0C",
