@@ -12,6 +12,12 @@
           "hostname": "DESKTOP-SAKQ7L8",
           "activated_at": "2026-02-27 16:04",
           "os": "Windows 10"
+        },
+        {
+          "machine_id": "958136686ef7edda",
+          "hostname": "DESKTOP-RAMK9RH",
+          "activated_at": "2026-02-27 16:08",
+          "os": "Windows 10"
         }
       ]
     },
