@@ -78,6 +78,78 @@
           "os": "Windows 10"
         }
       ]
+    },
+    {
+      "key": "8C9H-QRUD-8AAM-L2OA",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 1/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "6MFP-6NLG-GXKC-O9XH",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 2/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "YNQF-UXMR-0Q7K-PEL5",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 3/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "540E-1WBF-OG52-VZMS",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 4/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "3J1K-E1IU-6KKL-KBEA",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 5/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "XV8G-0QX6-D6Z3-N8H8",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 6/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "UIFQ-6UTE-ZH5S-QVZD",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 7/8",
+      "max_machines": 2,
+      "activations": []
+    },
+    {
+      "key": "JEXD-GWKE-340O-IKK5",
+      "created_at": "2026-03-07",
+      "expires_at": "2026-04-06",
+      "status": "active",
+      "note": "Batch Key 8/8",
+      "max_machines": 2,
+      "activations": []
     }
   ]
 }
