@@ -70,7 +70,14 @@
       "status": "active",
       "note": "cụt tay",
       "max_machines": 1,
-      "activations": []
+      "activations": [
+        {
+          "machine_id": "98412718d5c01edf",
+          "hostname": "DESKTOP-RAMK9RH",
+          "activated_at": "2026-03-07 14:51",
+          "os": "Windows 10"
+        }
+      ]
     }
   ]
 }
