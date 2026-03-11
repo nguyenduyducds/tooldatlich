@@ -140,7 +140,14 @@
       "status": "active",
       "note": "Batch Key 7/8",
       "max_machines": 2,
-      "activations": []
+      "activations": [
+        {
+          "machine_id": "d02e869e6dbd170f",
+          "hostname": "DESKTOP-MT8URLR",
+          "activated_at": "2026-03-11 15:14",
+          "os": "Windows 10"
+        }
+      ]
     },
     {
       "key": "JEXD-GWKE-340O-IKK5",
